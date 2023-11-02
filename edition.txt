@@ -2,8 +2,8 @@ first edition
 second edition
 third edition
 issue resolved
-hotfix my solution
 hotfix team solution
+New function added
 
 
 
